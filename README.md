@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Yo0oN's github stats](https://github-readme-stats.vercel.app/api?username=Yo0oN)](https://github.com/yo0on/github-readme-stats)
+
+🌱 [Yo0oN's notion](https://www.notion.so/yoonstechstudy/Yo0oN-e80d42987a484046b554045e3d65085d)<br>
+현재 공부 중, 과거에 공부하며 정리한 노트입니다. 내용은 앞으로도 계속 추가, 수정됩니다.
+
