@@ -8,16 +8,14 @@
   <a href="mailto:4855chl@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:4855chl@gmail.com"/></a>
 </p>
 
-<br>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
@@ -27,6 +25,6 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYo0oN%2Fhit-counter&count_bg=%23BA82DB&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
-</p>
+</p> -->
